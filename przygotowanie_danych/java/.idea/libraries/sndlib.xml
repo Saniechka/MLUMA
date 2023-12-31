@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="sndlib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/sndlib" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/sndlib/docu/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/sndlib/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/sndlib" recursive="false" />
+  </library>
+</component>
